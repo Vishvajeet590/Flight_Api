@@ -1,9 +1,2 @@
 ## Folder description 
-app -> contains the application code
-  |->src -> interfaces,implementation and buisness logic
-    |->controller -> http controller used for validating request and response.
-    |->model -> Declaration of DTOs and Db models
-    |->repository -> DB manipulation code
-    |----->interfaces -> Interface declarations
-    |->usecase -> business logic implementation 
-    |----->interfaces -> Interface declarations
+<img width="596" alt="image" src="https://github.com/user-attachments/assets/427e402d-5d8e-4da1-b922-5e9a19d2ec87">
